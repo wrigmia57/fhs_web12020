@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+    <head>
+            * {
+                margin:0;
+                padding:0;
+                box-sizing: border-box;
+            }
+            header {
+                text-align:center;
+                padding:1vh;
+                background:#fdffff;
+            }
+            body {
+                background: white;
+            }
+            header h1 {
+                color:black;
+                padding:2vh;
+                width:60%;
+                margin:1vh auto;
+                border-radius:12px;
+            }
+            nav {
+                background:black;
+                color:white;
+                
+            }
+                * {
+                margin:0;
+                padding:0;
+                box-sizing: border-box;
+            }
+            header {
+                text-align:center;
+                padding:1vh;
+            }
+            body {
+                background:#570000;
+            }
+            header h1 {
+                background:black;
+                color:white;
+                padding:2vh;
+                width:60%;
+                margin:1vh auto;
+                border-radius:12px;
+            }
+            nav {
+                background:#130d0d;
+                color:white;
+                
+            }
+            footer {
+                background:#130d0d;
+                color:white;
+                padding:2vh;
+                min-height:15vh;
+            }
+            .container {
+                min-height:75vh;
+                background:#fdffff;
+                width:80%;
+                margin:auto;
+               padding:2vh;
+            }
+            nav ul {
+                list-style-type:none;
+                
+              }
+            nav li{
+              display:inline-block;
+            }
+          nav li a {
+            padding:1rem 4rem;
+            display:block;
+            text-decoration:none;
+            color:#fdffff;
+            nav li a:hover{
+             text-decoration:underline;
+          }
+            }
+          }
